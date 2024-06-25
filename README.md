@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/harisaigithub/codsoft-L1-T3-Calculator.git
+    git clone https://github.com/Nayeem-stud/codesoft-L1-T3-caluclator.git
     ```
 2. Navigate to the project directory:
     ```bash
