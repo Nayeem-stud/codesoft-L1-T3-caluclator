@@ -57,6 +57,7 @@ Check out the live demo of the landing page [here]((https://codesoftl1t3.netlify
 
 ## Conclusion
 Completing this task was a significant learning experience, reinforcing my understanding of HTML, CSS, and JavaScript. The project challenged me to apply these skills in a practical scenario, resulting in a functional and interactive web application.
-**Image File**: 
+
+##**Image File**: 
 ![Alt text](caluclator/page1.png)
 ![Alt text](caluclator/page2.png)
