@@ -27,6 +27,8 @@ To run this project locally, follow these steps:
     ```
 3. Open `index.html` in your preferred web browser.
 
+## Live Demo
+Check out the live demo of the landing page [here]((https://codesoftl1t3.netlify.app/).
 ## Usage
 1. Open the calculator in a web browser.
 2. Use the buttons to input numbers and operations.
@@ -39,8 +41,6 @@ To run this project locally, follow these steps:
 ├── styles.css
 └── script.js
 
-markdown
-Copy code
 - **index.html**: The main HTML file containing the structure of the calculator.
 - **styles.css**: The CSS file for styling the calculator.
 - **script.js**: The JavaScript file that includes the logic for the calculator’s functionality.
@@ -57,3 +57,6 @@ Copy code
 
 ## Conclusion
 Completing this task was a significant learning experience, reinforcing my understanding of HTML, CSS, and JavaScript. The project challenged me to apply these skills in a practical scenario, resulting in a functional and interactive web application.
+**Image File**: 
+![Alt text](caluclator/page1.png)
+![Alt text](caluclator/page2.png)
